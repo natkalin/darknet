@@ -10372,4 +10372,3 @@ data/obj/Tomato_r_96_100.jpg
 data/obj/Tomato_r_97_100.jpg
 data/obj/Tomato_r_98_100.jpg
 data/obj/Tomato_r_99_100.jpg
-data/obj/train.txt

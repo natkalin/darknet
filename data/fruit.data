@@ -1,4 +1,4 @@
-classes= 20
+classes= 21
 train  = data/train.txt
 valid  = data/test.txt
 names = data/fruit.names
